@@ -9,6 +9,7 @@ const spaceMono = Space_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://nbdylabs.vercel.app"),
   title: "nbdy_labs — Punk Monks Crafting Digital Experiences",
   description: "A digital lab where art meets technology.",
   openGraph: {
